@@ -72,4 +72,5 @@ Please note that due to the conversion between 1D and 3D arrays, there may be a 
 
 - This project is not responsive and is still under development, optimized for desktop-size displays.
 
-
+## LINK TO THE PROJECT WEBSITE
+https://santacionx.github.io/Photoshop/
