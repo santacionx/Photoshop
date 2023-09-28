@@ -1,0 +1,32 @@
+html,
+body {
+    height: 100%;
+    background-image: url('images/4.png');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+   
+}
+
+.text_box {
+
+    margin-right: 300px;
+    /* width: 100%; */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#container{
+    margin-top: 200px;
+    margin-left: 400px;
+    background-image: url('images/4.png');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+
+.center_buttons {
+   
+    display:block;
+}
